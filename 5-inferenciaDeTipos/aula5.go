@@ -18,4 +18,8 @@ func main(){
 	fmt.Println(nome2,idade2,altura2)
 
 	// a própria linguagem consegue entender o tipo criado
+
+	// também aceita dessa forma
+	nome3 := "Davi Bezerra Marques"
+	fmt.Println(nome3)
 }
